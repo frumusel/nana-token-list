@@ -1,0 +1,14 @@
+{
+  "name": "NANA Token List",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "AKNkvnnw58D1vWsvSyp8iBfBUL7osBkLhqgCfPfnT49J",
+      "symbol": "NANA",
+      "name": "NANA Token",
+      "decimals": 9,
+      "logoURI": "https://files.catbox.moe/7harx9.webp",
+      "tags": ["utility"]
+    }
+  ]
+}
